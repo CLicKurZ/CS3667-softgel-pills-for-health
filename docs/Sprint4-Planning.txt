@@ -1,0 +1,18 @@
+Sprint Planning: We met in person and used planning poker to determine the difficulty of each story in our part 3.
+We determined the subteams and the breakdown of each story.
+
+
+Subteam A: Brendan and Austin
+
+Subteam B: Payton and Joel
+
+
+Sprint Backlog: Updating old classes and tests. Then creating new classes and tests.
+Story1A - Updating classes and tests for GelCap, ChildAcheAway, ChildDreamly, AdultAcheAway, AdultDreamly, NullDreamly, NullAcheAway
+CasingGenerator, SolutionGenerator, and ActiveGenerator.
+Story1B - Updating classes and tests for the 6 Generator Classes, GelCapRecipes, AdultGelCapFactory, and ChildGelCapFactory.
+Story2A - Create Inspector, ConsistencyInspector, FailureInspector, StrengthInspector
+Story2B - Create SoftGelCapStore and Demo.
+Story3A - Create tests for the inspectors.
+Story3B - Create test for SoftGelCapStore
+Story4 - work on the retrospective together.

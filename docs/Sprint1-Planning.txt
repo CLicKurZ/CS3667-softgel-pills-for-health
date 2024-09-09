@@ -1,0 +1,4 @@
+Subteam A: Austin Blaylock & Brendan Overstreet
+Subteam B: Joel Ayers & Payton Baum
+
+Agile Practices: SCRUM Methodology, Pair Programming, Planning Poker, etc.

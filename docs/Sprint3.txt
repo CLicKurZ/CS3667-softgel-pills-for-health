@@ -1,0 +1,10 @@
+Sprint Planning: Using SCRUM we will determine the steps
+needed to be taken based on the backlog and divide effort into two teams.
+
+Subteam A: Brendan and Austin
+
+Subteam B: Payton and Joel
+
+
+Sprint Backlog:
+Updating existing test classes and demo class, creating new test classes.

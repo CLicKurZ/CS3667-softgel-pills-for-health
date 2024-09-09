@@ -1,0 +1,10 @@
+Sprint Planning: Used planning poker to determine the dificulty of each step
+and found out that the factory will the hardest and the subclasses the easiest.
+
+Subteam A: Brendan and Austin
+
+Subteam B: Payton and Joel
+
+
+Sprint Backlog:
+All the update and Creating the classes.
